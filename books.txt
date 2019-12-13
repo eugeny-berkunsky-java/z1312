@@ -1,0 +1,6 @@
+B. Eckel;Thinking In Java;1000;new
+A. Pushkin;Fairy Tales;230;child
+T. Shevchenko;Kobzar;340;regular
+I. Kotlyarevsky;Eneida;150;regular
+L. Kuchma;Ukraine Isn't Russia;324;regular
+J. Rowling;Harry Potter;5000;child
